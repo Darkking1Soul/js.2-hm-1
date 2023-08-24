@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.input{
+    border: solid 2px gray;
+    margin-left: 38%;
+    margin-right: 38%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    margin-top: 150px;
+    border-radius: 20px;
+}
+
+.first{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.second{
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+
+.third{
+    padding-top: 15px;
+}
+
+button{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: gray;
+    color: white;
+    padding: 5px 15px 5px;
+    cursor: pointer;
+}
+
+#message{
+    display: none;
+    color: red;
+    padding-bottom: 15px;
+}
